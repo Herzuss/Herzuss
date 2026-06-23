@@ -4,7 +4,7 @@
 
 I build fast, production-grade web apps — and ship them to real paying users, not just demos.
 
-📍 Toruń, Poland &nbsp;·&nbsp; 🌐 [herzogweb.pl](https://herzogweb.pl) &nbsp;·&nbsp; 💼 Open to frontend roles
+📍 Poland &nbsp;·&nbsp; 🌐 [herzogweb.pl](https://herzogweb.pl) &nbsp;·&nbsp; 💼 Open to frontend roles
 
 ---
 
